@@ -2,7 +2,7 @@
 
 ## 2021 Goals
  - Contribute to a big Open Source Project.
- - Learn DSA enough to gain an internship in a tech company.
+ - Learn DSA enough to get an internship in a tech company.
  - Get Acquianted with Data Science.
  
 ## Languges and Tools I know:
