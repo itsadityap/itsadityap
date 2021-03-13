@@ -3,7 +3,6 @@
 ## 2021 Goals
  - Contribute to a big Open Source Project.
  - Learn DSA enough to get an internship in a tech company.
- - Get Acquianted with Data Science.
  
 ## Languges and Tools I know:
  - C
@@ -30,7 +29,5 @@ I am a Tech Enthusiast who is always ready to discuss. I love to talk about Scie
       - AMD Rageon Vega 8 Graphics
  
  ## Hobbies:
- - Swimming
- - Gaming is ❤
- - Keen interest in GeoPolitics 
- - Stock Markets
+ - Swimming.
+ - Keen interest in GeoPolitics.
