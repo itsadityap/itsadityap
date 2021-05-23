@@ -19,15 +19,11 @@
  - Polishing my skills to become an active contributer to the community.
 
 ##  About ME :
-I am a Tech Enthusiast who is always ready to discuss. I love to talk about Science and Space Tech (ISRO is ❤).
- - Compiler: Official MinGW
- - Text Editors: VS Code, Sublime Text, Atom
+I am a Tech Enthusiast who is always ready to discuss. I love to talk about Science and Defence and Geopolitics.
+
+ - Text Editors: VS Code, Sublime Text.
  - Laptop:
-			- Acer Aspire 3
+      - Acer Aspire 3
       - AMD Ryzen 5 3500 U
       - 8 GB / 512 SSD
       - AMD Rageon Vega 8 Graphics
- 
- ## Hobbies:
- - Swimming.
- - Keen interest in GeoPolitics.
