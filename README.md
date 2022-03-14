@@ -3,13 +3,12 @@
 ## Languges and Tools I know:
  - C
  - C++
+ - Python (Basic)
  - HTML5
  - CSS3
  - Git
  - Javascript
  - MySQL
- 
-##  👀 What I Am Learning rn:
- - Web Developement
- - Currently learning Data structures and Algorithms in C++.
- - Polishing my skills to become an active contributer to the community.
+ - Heroku Server
+ - Express.JS
+ - ReactJS
