@@ -1,14 +1,29 @@
-<h1 style="font-family: 'JetBrains Mono'"> 👋 Hi There ! Its Aditya Pandey, A Second Year Computer Science Undergrad</h1>
+<h1 style="font-family: 'JetBrains Mono'"> 👋 Hi There ! Its Aditya Pandey, A Second Year Computer Science Undergrad and Aspiring Backend Developer</h1>
 
-## Languges and Tools I know:
+## Languges:
  - C
  - C++
- - Python (Basic)
+ - JavaScript
+ - Node.js
+ - Java (Novice)
+ 
+## WebTech Stack
  - HTML5
  - CSS3
- - Git
- - Javascript
+ - node.JS
+ - Express.js
+ - Mongoose
+ - RestAPIs
+ - BootStrap
+ - EJS
+ - JavaScripct DOM
+ - JQuery
+ - React(Novice)
+ - Nest.js (Novice)
+
+## Tools & Database
  - MySQL
  - Heroku Server
- - Express.JS
- - ReactJS
+ - MongoDB
+ - Git&Github
+
