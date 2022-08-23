@@ -1,4 +1,4 @@
-<h1 style="font-family: 'JetBrains Mono'"> 👋 Hi There ! Its Aditya Pandey, A Second Year Computer Science Undergrad and Aspiring Backend Developer</h1>
+<h1 style="font-family: 'JetBrains Mono'"> 👋 Hi There ! Its Aditya Pandey, A Third Year Computer Science Undergrad and Aspiring Full Stack Developer</h1>
 
 ## Languges:
  - C
@@ -18,8 +18,7 @@
  - EJS
  - JavaScripct DOM
  - JQuery
- - React(Novice)
- - Nest.js (Novice)
+ - React
 
 ## Tools & Database
  - MySQL
