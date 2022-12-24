@@ -12,10 +12,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsadityap&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsadityap&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Devlopers Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=itsadityap&icon=0&color=0)](https://visitcount.itsvg.in)
+##
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/itsadityap/count.svg" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
