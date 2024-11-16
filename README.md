@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building Thingss
+Building Things
 
 
 ## 🌐 Socials:
