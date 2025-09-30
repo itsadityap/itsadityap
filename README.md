@@ -42,10 +42,3 @@ Building Things
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-307FEF?style=flat-square&logo=DigitalOcean&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-EA9836?style=flat-square&logo=amazonaws&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
-
-
-##
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/itsadityap/count.svg" />
-</p>
